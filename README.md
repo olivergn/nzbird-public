@@ -1,7 +1,7 @@
 # NZ Bird Browser
 > A web app for querying and saving New Zealand birds.
 
-![GIF of the site in action](nzbird.gif)
+![GIF of site in action](nzbird.gif)
 
 ## General information
 This project was developed as part of my second year coursework at the University of Otago, studying frontend web development. It provides an interface for querying JSON data describing a range of New Zealand bird species. While I have kept the repository private for academic integrity concerns, the source code is available to prospective employers upon request.
