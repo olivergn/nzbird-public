@@ -16,6 +16,7 @@ This project was developed as part of my second year coursework at the Universit
 - Users can switch between blue and red themes, which are applied to all elements in the DOM.
 
 ## Technologies used
+- **Node.js**
 - **HTML5**
 - **CSS3**
 - **JavaScript**
